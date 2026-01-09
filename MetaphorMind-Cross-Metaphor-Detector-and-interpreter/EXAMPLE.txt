@@ -1,0 +1,66 @@
+=== HINDI TEST DATA ===
+[METAPHOR] यह दुनिया एक रंगमंच है और हम सब कठपुतलियाँ हैं।
+(Translation: This world is a stage and we are all puppets.)
+
+[LITERAL] रमेश बाजार से सब्जियां खरीद रहा है।
+(Translation: Ramesh is buying vegetables from the market.)
+
+[METAPHOR] उसकी बातें मेरे दिल पर तीर की तरह लगीं।
+(Translation: His words hit my heart like an arrow.)
+
+[TRICKY LITERAL] डॉक्टर ने स्टेथोस्कोप से मेरे दिल की धड़कन सुनी।
+(Translation: The doctor listened to my heartbeat with a stethoscope.)
+*Note: Should be Normal, even though it has "Heart".*
+
+[METAPHOR] भ्रष्टाचार दीमक की तरह देश को खा रहा है।
+(Translation: Corruption is eating the country like termites.)
+
+=== TAMIL TEST DATA ===
+[METAPHOR] வாழ்க்கை ஒரு சக்கரம், அது சுழன்று கொண்டே இருக்கும்.
+(Translation: Life is a wheel, it keeps spinning.)
+
+[LITERAL] அவர் காலையில் செய்தித்தாள் வாசிக்கிறார்.
+(Translation: He is reading the newspaper in the morning.)
+
+[METAPHOR] அவனுடைய கோபம் ஒரு எரிமலை போல வெடித்தது.
+(Translation: His anger erupted like a volcano.)
+
+[TRICKY LITERAL] விவசாயிகள் வயலில் பயிர்களுக்கு தண்ணீர் பாய்ச்சுகின்றனர்.
+(Translation: Farmers are watering the crops in the field.)
+*Note: Should be Normal. Don't confuse with "Mind is a field".*
+
+=== TELUGU TEST DATA ===
+[METAPHOR] అమ్మ ప్రేమ సముద్రం కంటే లోతైనది.
+(Translation: Mother's love is deeper than the ocean.)
+
+[LITERAL] రైలు ప్లాట్‌ఫారమ్‌పైకి వస్తోంది.
+(Translation: The train is arriving at the platform.)
+
+[METAPHOR] కాలం విరిగిన అద్దం లాంటిది, దాన్ని సరిచేయలేము.
+(Translation: Time is like a broken mirror, it cannot be fixed.)
+
+[TRICKY LITERAL] నేను అద్దంలో నా ముఖం చూసుకున్నాను.
+(Translation: I looked at my face in the mirror.)
+*Note: Should be Normal. Mirror is physical here.*
+
+=== KANNADA TEST DATA ===
+[METAPHOR] ಜ್ಞಾನವು ಕತ್ತಲೆಯನ್ನು ಹೋಗಲಾಡಿಸುವ ದೀಪವಾಗಿದೆ.
+(Translation: Knowledge is a lamp that dispels darkness.)
+
+[LITERAL] ಮಕ್ಕಳು ಮೈದಾನದಲ್ಲಿ ಫುಟ್ಬಾಲ್ ಆಡುತ್ತಿದ್ದಾರೆ.
+(Translation: Children are playing football in the ground.)
+
+[METAPHOR] ಅವಳ ದನಿ ಕೋಗಿಲೆಯ ಹಾಡಿನಂತೆ ಸಿಹಿಯಾಗಿದೆ.
+(Translation: Her voice is as sweet as a cuckoo's song.)
+
+[TRICKY LITERAL] ದೀಪಕ್ಕೆ ಎಣ್ಣೆ ಹಾಕು.
+(Translation: Put oil in the lamp.)
+*Note: Should be Normal. Physical lamp.*
+
+=== ENGLISH BASELINE TEST ===
+[METAPHOR] Time is money, so don't waste it.
+[LITERAL] I looked at my watch and it was 5 PM.
+[METAPHOR] He has a heart of stone.
+[TRICKY LITERAL] The sculptor carved the statue out of stone.
+[METAPHOR] She is the shining star of our family.
+[LITERAL] The star Sirius is the brightest in the night sky.
