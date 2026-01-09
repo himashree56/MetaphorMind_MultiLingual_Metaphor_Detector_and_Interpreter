@@ -77,7 +77,7 @@ MONGODB_SETUP.md   # MongoDB setup guide
 The trained models are hosted on Hugging Face and are **automatically downloaded** using `from_pretrained()`.
 
 * **Hindi (XLM-R)**
-  [https://huggingface.co/Himasree/hindi-metaphor=detector-xlm-r](https://huggingface.co/Himasree/hindi-metaphor-detector-xlm-r)
+  [https://huggingface.co/Himasree/hindi-metaphor-detector-xlm-r](https://huggingface.co/Himasree/hindi-metaphor-detector-xlm-r)
 
 * **Tamil (XLM-R)**
   [https://huggingface.co/Himasree/tamil-metaphor-detector-xlm-r](https://huggingface.co/Himasree/tamil-metaphor-xlm-r)
