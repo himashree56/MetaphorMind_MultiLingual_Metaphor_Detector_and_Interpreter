@@ -1,5 +1,5 @@
 
-# Multilingual Metaphor Detection System
+# MetaphorMind: Multilingual Metaphor Detector and Interpreter 
 
 A production-ready NLP system for detecting metaphors in **Hindi, Tamil, Telugu, and Kannada** using fine-tuned transformer models.
 The project includes a **FastAPI backend**, **React frontend**, training scripts, and detailed documentation.
